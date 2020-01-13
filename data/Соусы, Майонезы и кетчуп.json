@@ -1,0 +1,279 @@
+{
+    "category_id": "PUI28",
+    "category_name": "Соусы, Майонезы и кетчуп",
+    "items": [
+        {
+            "id": 107189,
+            "name": "ТАЙ-СО Соус КЛАССИЧЕСКИЙ соев.ст/б 250мл",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3484963.jpg",
+            "plu": 3484963,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 38.99,
+                "price_promo__min": 24.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 107192,
+            "name": "СТЕБЕЛЬ БАМБУКА Соус ТОМАТ.ПО-ГРУЗ.280г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3494993.jpg",
+            "plu": 3494993,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 49.99,
+                "price_promo__min": 34.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 107193,
+            "name": "СТЕБЕЛЬ БАМБУКА Соус ТОМАТ.С БАЗИЛ.280г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3494995.jpg",
+            "plu": 3494995,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 49.99,
+                "price_promo__min": 34.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 107097,
+            "name": "Кетчуп Слобода, томатный, 350 г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3382584.jpg",
+            "plu": 3382584,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 72.99,
+                "price_promo__min": 49.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 107098,
+            "name": "Кетчуп Слобода, шашлычный, 350 г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3382585.jpg",
+            "plu": 3382585,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 72.99,
+                "price_promo__min": 49.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 107140,
+            "name": "CALVE Соус С ЛЕСНЫМИ ГРИБАМИ 230г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3427656.jpg",
+            "plu": 3427656,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 72.49,
+                "price_promo__min": 49.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 107141,
+            "name": "CALVE Соус СЛ.-ЧЕСН.д/мяс/кур/пельм.230г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3427657.jpg",
+            "plu": 3427657,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 72.49,
+                "price_promo__min": 49.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 107142,
+            "name": "CALVE Соус ЦЕЗАРЬ СЫРНЫЙ д/салата 230г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3427659.jpg",
+            "plu": 3427659,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 72.49,
+                "price_promo__min": 49.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 107187,
+            "name": "СЛОБОДА Кетчуп ЛЕЧО 350г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3484276.jpg",
+            "plu": 3484276,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 72.99,
+                "price_promo__min": 49.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 106905,
+            "name": "Паста Помидорка, томатная, 140 г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/4609.jpg",
+            "plu": 4609,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 64.99,
+                "price_promo__min": 54.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 107102,
+            "name": "DOLMIO Соус итал.ТРАДИЦИОН.томат.350г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3393139.jpg",
+            "plu": 3393139,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 109.99,
+                "price_promo__min": 74.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 107103,
+            "name": "DOLMIO Соус итал.С ГРИБАМИ томат.350г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3393140.jpg",
+            "plu": 3393140,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 109.99,
+                "price_promo__min": 74.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 107080,
+            "name": "РЯБА Майонез ПРОВАНСАЛЬ 67% д/п 744г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3355228.jpg",
+            "plu": 3355228,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 127.99,
+                "price_promo__min": 89.99
+            },
+            "store_name": null
+        }
+    ]
+}

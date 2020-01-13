@@ -1,0 +1,90 @@
+{
+    "category_id": "PUI10",
+    "category_name": "Крупы и зерновые",
+    "items": [
+        {
+            "id": 107132,
+            "name": "УВЕЛКА Смесь ДРУЖБА рис кр/пшено шл.400г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3424356.jpg",
+            "plu": 3424356,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 59.99,
+                "price_promo__min": 44.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 107334,
+            "name": "МИСТР.Рис ЯНТАРЬ в/с 5х80г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3674166.jpg",
+            "plu": 3674166,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 79.99,
+                "price_promo__min": 49.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 107316,
+            "name": "ПАССИМ Крупа греч.ядрица б/разв.в/с 800г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3665721.jpg",
+            "plu": 3665721,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 67.99,
+                "price_promo__min": 66.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 107343,
+            "name": "УВЕЛКА Рис Д/ПЛОВА ПО-УЗБЕКСКИ шлиф.800г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3680427.jpg",
+            "plu": 3680427,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 87.99,
+                "price_promo__min": 69.99
+            },
+            "store_name": null
+        }
+    ]
+}

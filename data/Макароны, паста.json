@@ -1,0 +1,132 @@
+{
+    "category_id": "PUI11",
+    "category_name": "Макароны, паста",
+    "items": [
+        {
+            "id": 107235,
+            "name": "Изделия макаронные. Спагетти. Группа А высший сорт 400г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3623997.jpg",
+            "plu": 3623997,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 39.99,
+                "price_promo__min": 34.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 107236,
+            "name": "Изделия макаронные. Спирали. Группа А высший сорт 400г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3623998.jpg",
+            "plu": 3623998,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 39.99,
+                "price_promo__min": 34.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 107237,
+            "name": "Изделия макаронные. Рожки. Группа А высший сорт. 400г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3623999.jpg",
+            "plu": 3623999,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 39.99,
+                "price_promo__min": 34.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 106903,
+            "name": "BARIL.Макароны ПЕННЕ-РИГАТЕ 500г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/4384.jpg",
+            "plu": 4384,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 85.99,
+                "price_promo__min": 59.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 106904,
+            "name": "BARIL.Макароны ПИПЕ-РИГАТЕ  500г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/4387.jpg",
+            "plu": 4387,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 79.99,
+                "price_promo__min": 59.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 106942,
+            "name": "BARIL.Макароны БАВЕТТЕ Лапша 500г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/47132.jpg",
+            "plu": 47132,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 85.99,
+                "price_promo__min": 59.99
+            },
+            "store_name": null
+        }
+    ]
+}

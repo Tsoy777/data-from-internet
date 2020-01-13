@@ -1,0 +1,132 @@
+{
+    "category_id": "PUI7",
+    "category_name": "Консервированные овощи",
+    "items": [
+        {
+            "id": 106958,
+            "name": "ФРАУ МАРТА Горошек зеленый ж/б 310г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/2035571.jpg",
+            "plu": 2035571,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 58.19,
+                "price_promo__min": 44.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 106959,
+            "name": "ФРАУ МАРТА Кукуруза сахарная ж/б 310г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/2035573.jpg",
+            "plu": 2035573,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 52.99,
+                "price_promo__min": 44.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 106945,
+            "name": "ВЕРЕС Икра из кабачков ЭКСТРА 505г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/51725.jpg",
+            "plu": 51725,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 139.99,
+                "price_promo__min": 89.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 107242,
+            "name": "Лютеница по-деревенски крупного помола с/б 265г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3625520.jpg",
+            "plu": 3625520,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 139.99,
+                "price_promo__min": 99.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 107005,
+            "name": "Ассорти Шесть соток 720мл",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3013813.jpg",
+            "plu": 3013813,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 139.99,
+                "price_promo__min": 109.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 107406,
+            "name": "Консервы овощные стерилизованные. Айвар домашний, 240 г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3933788.jpg",
+            "plu": 3933788,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 169.99,
+                "price_promo__min": 129.99
+            },
+            "store_name": null
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "category_id": "PUI25",
+    "category_name": "Сметана",
+    "items": [
+        {
+            "id": 107384,
+            "name": "Простоквашино Сметана с огурц.и зелен.\"Сметанный соус\"13,5%145г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3913330.jpg",
+            "plu": 3913330,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 42.99,
+                "price_promo__min": 36.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 107385,
+            "name": "Простоквашино Сметана с черникой \"Десертная\" 13% 260г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3913332.jpg",
+            "plu": 3913332,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 64.99,
+                "price_promo__min": 54.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 107386,
+            "name": "Простоквашино Сметана с клубникой \"Десертная\" 13% 260г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3913333.jpg",
+            "plu": 3913333,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 63.99,
+                "price_promo__min": 54.99
+            },
+            "store_name": null
+        }
+    ]
+}

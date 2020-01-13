@@ -1,0 +1,153 @@
+{
+    "category_id": "PUI33",
+    "category_name": "Сухие завтраки",
+    "items": [
+        {
+            "id": 107149,
+            "name": "СЫРBALL Шарики кукуруз.со вк.сыра 140г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3437912.jpg",
+            "plu": 3437912,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 59.99,
+                "price_promo__min": 44.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 107106,
+            "name": "Мюсли Matti,банан-шоколад, 250 г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3398284.jpg",
+            "plu": 3398284,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 89.99,
+                "price_promo__min": 64.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 107107,
+            "name": "Мюсли Matti, ежевика-малина, 250 г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3398285.jpg",
+            "plu": 3398285,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 89.99,
+                "price_promo__min": 64.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 107108,
+            "name": "Мюсли Matti, орех-яблоко, 250 г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3398286.jpg",
+            "plu": 3398286,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 89.99,
+                "price_promo__min": 64.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 107305,
+            "name": "ЛЮБЯТОВО Завтраки ХЛОПЬЯ КУКР.гот.600г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3659059.jpg",
+            "plu": 3659059,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 114.99,
+                "price_promo__min": 89.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 107413,
+            "name": "Любятово ШОКОZAVR хрустящие подушечки с нежной шоколадно-молочной начинкой 240г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3942126.jpg",
+            "plu": 3942126,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 119.99,
+                "price_promo__min": 89.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 107088,
+            "name": "Готовый завтрак Nesquik, шоколадный, Nestle, 700 г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3368535.jpg",
+            "plu": 3368535,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 248.99,
+                "price_promo__min": 179.99
+            },
+            "store_name": null
+        }
+    ]
+}

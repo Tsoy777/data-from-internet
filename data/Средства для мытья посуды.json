@@ -1,0 +1,27 @@
+{
+    "category_id": "PUI29",
+    "category_name": "Средства для мытья посуды",
+    "items": [
+        {
+            "id": 107347,
+            "name": "SYNERGETIC Ср.д/мыт.пос/игр.ар.Алоэ 0,5л",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3682367.jpg",
+            "plu": 3682367,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 114.99,
+                "price_promo__min": 89.99
+            },
+            "store_name": null
+        }
+    ]
+}

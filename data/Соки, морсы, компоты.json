@@ -1,0 +1,363 @@
+{
+    "category_id": "PUI26",
+    "category_name": "Соки, морсы, компоты",
+    "items": [
+        {
+            "id": 106908,
+            "name": "Сок J-7 ЯБЛОКО ЗЕЛЕНОЕ     0.2л",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/6078.jpg",
+            "plu": 6078,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 37.99,
+                "price_promo__min": 25.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 106923,
+            "name": "Нектар J-7 ВИШНЕВЫЙ        0.2л",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/20871.jpg",
+            "plu": 20871,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 37.99,
+                "price_promo__min": 25.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 106935,
+            "name": "Сок J-7 ТОМАТНЫЙ 100%      0.2л",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/30389.jpg",
+            "plu": 30389,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 37.99,
+                "price_promo__min": 25.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 107328,
+            "name": "МИША Нектар морковь с мякотью 0,33л",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3671182.jpg",
+            "plu": 3671182,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 36.99,
+                "price_promo__min": 29.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 107329,
+            "name": "МИША Нектар морк/ябл/мал.с мяк.0,33л",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3671186.jpg",
+            "plu": 3671186,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 36.99,
+                "price_promo__min": 29.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 107124,
+            "name": "Напиток сокосодержащий Добрый Pulpy, апельсин, 450 мл",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3418780.jpg",
+            "plu": 3418780,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 51.49,
+                "price_promo__min": 39.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 107331,
+            "name": "Напиток сокосодержащий Добрый Pulpy, ананс-манго, 450 мл",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3671718.jpg",
+            "plu": 3671718,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 51.49,
+                "price_promo__min": 39.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 107420,
+            "name": "Напиток безалкогольный негазированный с соком и  кусочками кокосового желе «Ната де коко», 0.45л.",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3947130.jpg",
+            "plu": 3947130,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 52.99,
+                "price_promo__min": 39.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 107066,
+            "name": "ФР.САД Нект.из см.фр.с мяк.д/д.пит.0,95л",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3335034.jpg",
+            "plu": 3335034,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 89.99,
+                "price_promo__min": 62.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 107067,
+            "name": "ФР.САД Нект.ПЕРС/ЯБЛ.с мяк.д/д.пит.0,95л",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3335036.jpg",
+            "plu": 3335036,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 89.99,
+                "price_promo__min": 62.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 107068,
+            "name": "ФР.САД Нект.АПЕЛЬС.с мяк.д/дет.пит.0,95л",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3335037.jpg",
+            "plu": 3335037,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 89.99,
+                "price_promo__min": 62.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 107069,
+            "name": "ФР.САД Сок ТОМ.с сах.сол.д/дет.пит.0,95л",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3335054.jpg",
+            "plu": 3335054,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 102.99,
+                "price_promo__min": 62.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 107089,
+            "name": "ФРУК.САД Напиток сокосод.ЯБЛ-ЯГОДН.950мл",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3368752.jpg",
+            "plu": 3368752,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 89.99,
+                "price_promo__min": 62.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 107341,
+            "name": "ФРУКТ.САД Сок ЯБЛ.осв.д/дет.пит.0,95л",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3679183.jpg",
+            "plu": 3679183,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 89.99,
+                "price_promo__min": 62.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 107274,
+            "name": "СОК ЯБЛОЧНЫЙ ВОССТАНОВЛЕННЫЙ Осветленный 2 л",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3643302.jpg",
+            "plu": 3643302,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 127.99,
+                "price_promo__min": 94.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 107275,
+            "name": "Нектар мультифруктовый 2 л",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3643303.jpg",
+            "plu": 3643303,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 127.99,
+                "price_promo__min": 94.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 107276,
+            "name": "Нектар апельсиновый 2 л",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3643304.jpg",
+            "plu": 3643304,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 127.99,
+                "price_promo__min": 94.99
+            },
+            "store_name": null
+        }
+    ]
+}

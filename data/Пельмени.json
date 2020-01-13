@@ -1,0 +1,27 @@
+{
+    "category_id": "PUI18",
+    "category_name": "Пельмени",
+    "items": [
+        {
+            "id": 107364,
+            "name": "СИБИР.КОЛЛЕК.Пельм.ФИРМЕННЫЕ кат.В 700г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3693418.jpg",
+            "plu": 3693418,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 379.99,
+                "price_promo__min": 264.99
+            },
+            "store_name": null
+        }
+    ]
+}

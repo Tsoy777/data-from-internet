@@ -1,0 +1,90 @@
+{
+    "category_id": "PUI32",
+    "category_name": "Средства по уходу за полостью рта",
+    "items": [
+        {
+            "id": 107112,
+            "name": "ЛЕС.БАЛЬЗ.Опол.д/дес.ФОРТЕ 400мл",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3400235.jpg",
+            "plu": 3400235,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 179.99,
+                "price_promo__min": 119.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 107053,
+            "name": "Зубная паста Sensodyne, мгновенный эффект, 75 мл",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3276160.jpg",
+            "plu": 3276160,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 235.99,
+                "price_promo__min": 179.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 107087,
+            "name": "SENS.Паста Total Care Компл.защ.зуб.75мл",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3368036.jpg",
+            "plu": 3368036,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 209.99,
+                "price_promo__min": 179.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 107021,
+            "name": "ROCS З/паста КОФЕ И ТАБАК 74г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3152415.jpg",
+            "plu": 3152415,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 257.09,
+                "price_promo__min": 199.99
+            },
+            "store_name": null
+        }
+    ]
+}

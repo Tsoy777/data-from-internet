@@ -1,0 +1,48 @@
+{
+    "category_id": "PUI22",
+    "category_name": "Семечки и орехи",
+    "items": [
+        {
+            "id": 107157,
+            "name": "ДЖАЗ Арахис жареный соленый 150г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3451269.jpg",
+            "plu": 3451269,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 89.49,
+                "price_promo__min": 59.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 24001,
+            "name": "Бабкины семечки, жареные, 300 г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/85158.jpg",
+            "plu": 85158,
+            "promo": {
+                "id": 1113606119,
+                "date_begin": "2020-01-03",
+                "date_end": "2020-01-20",
+                "type": "PROM",
+                "description": "Сезон №1 Алком ЦФ 03.01.2020-20.01.2020",
+                "kind": "Z011",
+                "expired_at": 12
+            },
+            "current_prices": {
+                "price_reg__min": 84.99,
+                "price_promo__min": 69.99
+            },
+            "store_name": null
+        }
+    ]
+}

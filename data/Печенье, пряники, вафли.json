@@ -1,0 +1,678 @@
+{
+    "category_id": "PUI19",
+    "category_name": "Печенье, пряники, вафли",
+    "items": [
+        {
+            "id": 107074,
+            "name": "Печенье Petit Beurre, затяжное, 170 г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3341241.jpg",
+            "plu": 3341241,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 29.99,
+                "price_promo__min": 22.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 106952,
+            "name": "Пряник ТУЛЬСКИЙ с нач.вар.сгущен.140г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/73998.jpg",
+            "plu": 73998,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 39.99,
+                "price_promo__min": 29.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 106979,
+            "name": "Пряник ТУЛЬСКИЙ фрук.нач.  140г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/2109598.jpg",
+            "plu": 2109598,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 39.99,
+                "price_promo__min": 29.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 107466,
+            "name": "Пряники тульские \"Тульский пряник\" с имбирем и начинкой со вкусом марципана, 140 гр",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3971669.jpg",
+            "plu": 3971669,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 39.99,
+                "price_promo__min": 29.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 107216,
+            "name": "Печенье Шарлиз, клубника, сдобное, 137 г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3607261.jpg",
+            "plu": 3607261,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 39.99,
+                "price_promo__min": 34.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 107217,
+            "name": "Печенье Шарлиз, апельсин, сдобное, 137 г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3607262.jpg",
+            "plu": 3607262,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 39.99,
+                "price_promo__min": 34.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 106991,
+            "name": "Крекер ЯНТАРНЫЙ с солью    235г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/2152611.jpg",
+            "plu": 2152611,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 47.99,
+                "price_promo__min": 37.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 106992,
+            "name": "Крекер ЯНТАРНЫЙ с сыром    235г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/2152614.jpg",
+            "plu": 2152614,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 47.99,
+                "price_promo__min": 37.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 107001,
+            "name": "Вафли Коровка, топленое молоко, 150 г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3000449.jpg",
+            "plu": 3000449,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 44.99,
+                "price_promo__min": 37.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 107333,
+            "name": "Вафли Коровка, шоколад, 150 г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3673372.jpg",
+            "plu": 3673372,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 44.99,
+                "price_promo__min": 37.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 107260,
+            "name": "Печенье сдобное «Лорентини Вишневый пай» («Lorentini Вишневый пай») 120г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3636287.jpg",
+            "plu": 3636287,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 49.99,
+                "price_promo__min": 42.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 107261,
+            "name": "Печенье сдобное «Лорентини Апельсиновый джем» («Lorentini Апельсиновый джем») 100г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3636289.jpg",
+            "plu": 3636289,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 49.99,
+                "price_promo__min": 42.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 107043,
+            "name": "Печенье вафельное, Шарлиз, 225 г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3221388.jpg",
+            "plu": 3221388,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 59.0,
+                "price_promo__min": 45.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 106897,
+            "name": "КОЛОМЕНСКОЕ Вафли СЛИВОЧНЫЕ в пленк.220г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/1191.jpg",
+            "plu": 1191,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 64.99,
+                "price_promo__min": 49.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 106899,
+            "name": "КОЛОМЕНСКОЕ Вафли КАПРИЧ.с шок.нач.220г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/1843.jpg",
+            "plu": 1843,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 64.99,
+                "price_promo__min": 49.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 106955,
+            "name": "Печенье ОВСЯНОЕ с кус.шокол310г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/91535.jpg",
+            "plu": 91535,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 59.0,
+                "price_promo__min": 49.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 107092,
+            "name": "КОЛОМЕНСКОЕ Вафли ТОПЛЕНОЕ МОЛОКО 220г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3376615.jpg",
+            "plu": 3376615,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 64.99,
+                "price_promo__min": 49.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 107145,
+            "name": "КОЛОМЕНСКОЕ Вафли с халвой 220г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3432952.jpg",
+            "plu": 3432952,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 64.99,
+                "price_promo__min": 49.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 107150,
+            "name": "ШАРЛИЗ Печенье МАЛИН.ДЕСЕРТ сдобное 270г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3438761.jpg",
+            "plu": 3438761,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 59.99,
+                "price_promo__min": 49.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 107151,
+            "name": "ШАРЛИЗ Печенье НЕЖНОЕ СУФЛЕ 240г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3438765.jpg",
+            "plu": 3438765,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 53.99,
+                "price_promo__min": 49.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 107277,
+            "name": "Печенье Воздушное шоколадное Любятово 200 г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3643999.jpg",
+            "plu": 3643999,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 59.99,
+                "price_promo__min": 52.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 107044,
+            "name": "БЕЛОГОРЬЕ Печ.ПАЛЬЧ.ОБЛИЖ.бел/гл.сд.265г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3222349.jpg",
+            "plu": 3222349,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 69.0,
+                "price_promo__min": 54.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 107190,
+            "name": "ЛЮБЯТОВО Печенье сдоб.со вк.лим/мята250г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3486073.jpg",
+            "plu": 3486073,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 59.0,
+                "price_promo__min": 54.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 107233,
+            "name": "ЛЮБЯТОВО Печ.овс.с черносл/льн.сем.200г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3615356.jpg",
+            "plu": 3615356,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 72.99,
+                "price_promo__min": 54.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 107054,
+            "name": "ШАРЛИЗ Печенье КУРАБЬЕ сдобное 300г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3281716.jpg",
+            "plu": 3281716,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 64.99,
+                "price_promo__min": 55.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 107433,
+            "name": "Вафельный десерт \"Веселый Тоша\" со вкусом банана, 250 г х 12 шт",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3957307.jpg",
+            "plu": 3957307,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 89.99,
+                "price_promo__min": 55.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 107434,
+            "name": "Вафельный десерт \"Веселый Тоша\" с ароматом клубники, 250 гр",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3957308.jpg",
+            "plu": 3957308,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 89.99,
+                "price_promo__min": 55.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 108118,
+            "name": "Торт вафельный глазированный кондитерской глазурью с жировой начинкой \"Бабаевская Белочка\" с карамелизованными орехами, 250 гр",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3982417.jpg",
+            "plu": 3982417,
+            "promo": {
+                "id": 1113239916,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 129.99,
+                "price_promo__min": 89.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 107111,
+            "name": "Торт МИШКА КОСОЛАПЫЙ вафельный 250г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3399810.jpg",
+            "plu": 3399810,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 129.99,
+                "price_promo__min": 99.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 106951,
+            "name": "Торт ШОКОЛАДНИЦ.ваф.с минд.270г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/72892.jpg",
+            "plu": 72892,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 179.99,
+                "price_promo__min": 129.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 107093,
+            "name": "ШОКОЛАДНИЦА Торт с орехами и изюмом 270г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3378454.jpg",
+            "plu": 3378454,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 176.99,
+                "price_promo__min": 129.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 106948,
+            "name": "Торт Шоколадница, вафельный, 430 г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/65939.jpg",
+            "plu": 65939,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 219.99,
+                "price_promo__min": 169.99
+            },
+            "store_name": null
+        }
+    ]
+}

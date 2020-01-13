@@ -1,0 +1,48 @@
+{
+    "category_id": "PUI15",
+    "category_name": "Мягкие и творожные сыры",
+    "items": [
+        {
+            "id": 107227,
+            "name": "Сыр Бри 60% \"Vitalat\" 125г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3611513.jpg",
+            "plu": 3611513,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 194.99,
+                "price_promo__min": 154.99
+            },
+            "store_name": null
+        },
+        {
+            "id": 107162,
+            "name": "НАТ.ПРОД.Сыр СУЛУГУНИ 45% 330г",
+            "mech": null,
+            "img_link": "https://media.5ka.ru/media/products/3455601.jpg",
+            "plu": 3455601,
+            "promo": {
+                "id": 1113239880,
+                "date_begin": "2020-01-04",
+                "date_end": "2020-01-23",
+                "type": "PROM",
+                "description": "ЦФ 04.01-23.01.20 Сезон №1",
+                "kind": "Z011",
+                "expired_at": 15
+            },
+            "current_prices": {
+                "price_reg__min": 199.99,
+                "price_promo__min": 159.99
+            },
+            "store_name": null
+        }
+    ]
+}
