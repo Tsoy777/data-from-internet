@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import scrapy
 from scrapy.http import HtmlResponse
-from avitoparse.items import HhItem
+from avitoparse2.items import HhItem
 
 class HhSpider(scrapy.Spider):
     name = 'hh'
