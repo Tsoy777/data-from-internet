@@ -9,10 +9,10 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = 'avitoparse'
+BOT_NAME = 'avitoparse2'
 
-SPIDER_MODULES = ['avitoparse.spiders']
-NEWSPIDER_MODULE = 'avitoparse.spiders'
+SPIDER_MODULES = ['avitoparse2.spiders']
+NEWSPIDER_MODULE = 'avitoparse2.spiders'
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
@@ -65,7 +65,7 @@ DEFAULT_REQUEST_HEADERS = {
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
-    'avitoparse.pipelines.AvitoparsePipeline': 300,
+    'avitoparse2.pipelines.AvitoparsePipeline': 300,
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)
