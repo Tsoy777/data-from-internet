@@ -1,8 +1,8 @@
 from scrapy.crawler import CrawlerProcess
 from scrapy.settings import Settings
-from avitoparse import settings
-from avitoparse.spiders.avito import AvitoSpider
-from avitoparse.spiders.hh import HhSpider
+from avitoparse2 import settings
+from avitoparse2.spiders.avito import AvitoSpider
+from avitoparse2.spiders.hh import HhSpider
 
 if __name__=='__main__':
     scr_settings = Settings()
